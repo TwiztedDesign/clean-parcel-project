@@ -5,7 +5,7 @@
 # Usage
 Create a new empty repo on GitHub 
     
-    git clone hhttps://github.com/TwiztedDesign/clean-parcel-project.git [my-project-name]
+    git clone https://github.com/TwiztedDesign/clean-parcel-project.git [my-project-name]
     cd [my-project-name] 
    
 Clean the README

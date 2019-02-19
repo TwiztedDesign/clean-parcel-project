@@ -5,8 +5,8 @@
   "main": "dist/index.js",
   "scripts": {
     "test"            : "echo \"Error: no test specified\"",
-    "watch"           : "parcel watch src/typewriter.js",
-    "build"           : "parcel build src/typewriter.js",
+    "watch"           : "parcel watch src/index.js",
+    "build"           : "parcel build src/index.js",
     "preversion"      : "npm run lint",
     "lint"            : "eslint src",
     "prepare"         : "npm run build",
